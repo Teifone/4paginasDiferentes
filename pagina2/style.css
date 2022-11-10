@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+    
+html{
+    font-size: 62.5%;
+    padding: 0.5rem;
+    text-align: justify;
+    background-color: rgb(185, 184, 184);
+}
+
+header{
+    display: block;
+    margin-bottom: 1rem;
+}
+
+header h1{
+    font-size: 4rem;
+    display: block;
+    text-align: right;
+    letter-spacing: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+p,ul{
+    font-size: 1.3rem;
+}
+
+.clases{
+    margin-bottom: 1rem;
+}
+
+.uno{
+    height: 20rem;
+}
+
+.ubicacion{
+    height: 20rem;
+    width: 20rem;
+    display: inline-block;
+}
+
+.contenedor{
+    display: inline-block;
+    position: absolute;
+
+}
+
+h2{
+    font-size: 2rem;
+    background-color: saddlebrown;
+    margin-bottom: 2rem;
+    padding-left: .5rem;
+}
+
+.contenedor p{
+    font-size: 1.3rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.uno h2, .uno p{
+    display: block;
+    margin-right: 0.5rem;
+}
+
+.pueblitoPaisa{
+    height: 20rem;
+    width: 20rem;
+}
+
+.imagenesPueblito{
+    display:block;
+    text-align: center;
+    letter-spacing: 2rem;
+}
+
+.imagenesPueblito img{
+    border-radius: 1rem;
+}
+
+.contenedorPueblito{
+    margin-top: 2rem;
+}
+
+h3{
+    font-size: 1.5rem
+}
+
+.contenedorRiquesas{
+    width: 75%;
+    display: inline-block;
+}
+
+.contenedorRiquesas p{
+    margin-bottom: 1rem;
+}
+
+.animales{
+    margin-left: 3rem;
+}
+
+.referencias{
+    margin-top: 2rem;
+    list-style: none;
+}
+
+.imagenesFauna{
+    display: inline-block;
+    position: absolute;
+    width: 25%;
+    text-align: center;
+}
+
+.fauna{
+    height: 10rem;
+    width: 10rem;
+}
+
+.tres{
+    margin-bottom: 0;
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ;
+}

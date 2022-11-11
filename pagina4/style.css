@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+    background-color: darkcyan;
+    display: block;
+}
+
+h1{
+    font-size: 5rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.octubre{
+    background-color: bisque;
+    text-align: center;
+}
+
+h2{
+    font-size: 3rem;
+}
+
+.octubre div{
+    width: 30rem;
+    display: inline-block;
+}
+
+ol{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    list-style: none;
+    padding: 0;
+    border-color: black;
+}
+
+li{
+    text-align: right;
+    font-size: 2rem;
+}
+
+.first-day {
+    grid-column-start: 6
+}
+
+.day-name{
+    background-color: aquamarine;
+    font-weight: bold;
+    text-align: center;
+}
